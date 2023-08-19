@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "your-build-command-here"
+    "build": "npm run build",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "Subash Paudel Chhetri",
