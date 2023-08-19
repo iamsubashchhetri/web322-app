@@ -1,0 +1,85 @@
+  body {
+      background-color: #c7bbbb;
+      color: #2e2b2b;
+      font-family: Arial, sans-serif;
+  }
+    h2{
+      font-size: 26px;
+      text-align: center;
+      text-shadow: 0 0 10px rgba(18, 17, 17, 0.7), 0 0 20px rgba(8, 8, 8, 0.7), 0 0 30px rgba(255, 255, 255, 0.7);
+    }
+
+    strong {
+      font-size: 18px;
+      text-shadow: 0 0 10px rgba(27, 26, 26, 0.7), 0 0 20px rgba(255, 255, 255, 0.7), 0 0 30px rgba(255, 255, 255, 0.7);
+    }
+    .list-group-item {
+      color: #0e0e0e;
+      text-shadow: 0 0 10px rgba(19, 19, 19, 0.7), 0 0 20px rgba(255, 255, 255, 0.7), 0 0 30px rgba(255, 255, 255, 0.7);
+    }
+
+    /* Custom styles for the row and section */
+    .row {
+      margin: 0;
+      padding: 0;
+    }
+
+    .main {
+      padding: 20px;
+    }
+
+    /* Neon effect for the image border */
+    img {
+      border: 2px solid #fff;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.7), 0 0 20px rgba(255, 255, 255, 0.7), 0 0 30px rgba(255, 255, 255, 0.7);
+    }
+
+    /* Styling for the aside */
+    .col-md-3 {
+      padding: 20px;
+    }
+
+    h4 {
+      font-size: 24px;
+    }
+
+    ul.list-group {
+      margin-top: 10px;
+      list-style-type: none;
+    }
+
+    ul.list-group a {
+      display: block;
+      padding: 10px;
+      text-decoration: none;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+    ul.list-group a:hover {
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+
+
+    /* Neon effect for the footer */
+    footer {
+        background-color: #000;
+        padding: 0.2px;
+        text-align: center;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.5);
+      }
+  
+      footer p {
+        font-size: 16px;
+        color: #fff;
+      }
+  
+      /* Neon effect for the links in the footer */
+      footer a {
+        color: #fff;   
+      }
+  
+      
